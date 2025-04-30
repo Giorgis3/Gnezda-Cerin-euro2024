@@ -30,12 +30,6 @@ Competitions: UEFA Euro 2024 (Competition ID: 55)
 
 Seasons Used: Season ID: 282
 
-📦 Requirements
-bash
-Copy
-Edit
-pip install mplsoccer statsbombpy matplotlib pandas numpy
-You will also need to have a working internet connection to fetch data using statsbombpy.
 
 🚀 How to Run
 Clone this repo
