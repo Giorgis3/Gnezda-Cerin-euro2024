@@ -17,7 +17,6 @@ Dot plots comparing Čerin to teammates and other players
 
 Code to generate all visuals in the Medium article
 
-Fully reproducible Jupyter notebook
 
 🔗 Medium Article
 📖 Read the full breakdown here:
@@ -30,14 +29,6 @@ Competitions: UEFA Euro 2024 (Competition ID: 55)
 
 Seasons Used: Season ID: 282
 
-
-🚀 How to Run
-Clone this repo
-
-Open the notebook:
-python_soccermatics_projecfnl_medium.ipynb
-
-Run each cell to reproduce the visuals and stats used in the article.
 
 📚 Credits
 Soccermatics Pro Course – This project was developed as part of the Soccermatics Pro course, which provided the core methods for match data analysis.
